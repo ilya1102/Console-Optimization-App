@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "zrqPrOOemtc=",
+  "success": true,
+  "projectFilePath": "C:\\PGOptimisation\\PGOptimisation\\PGOptimisation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\imolo\\.nuget\\packages\\google.ortools\\9.12.4544\\google.ortools.9.12.4544.nupkg.sha512",
+    "C:\\Users\\imolo\\.nuget\\packages\\google.ortools.runtime.linux-arm64\\9.12.4544\\google.ortools.runtime.linux-arm64.9.12.4544.nupkg.sha512",
+    "C:\\Users\\imolo\\.nuget\\packages\\google.ortools.runtime.linux-x64\\9.12.4544\\google.ortools.runtime.linux-x64.9.12.4544.nupkg.sha512",
+    "C:\\Users\\imolo\\.nuget\\packages\\google.ortools.runtime.osx-arm64\\9.12.4544\\google.ortools.runtime.osx-arm64.9.12.4544.nupkg.sha512",
+    "C:\\Users\\imolo\\.nuget\\packages\\google.ortools.runtime.osx-x64\\9.12.4544\\google.ortools.runtime.osx-x64.9.12.4544.nupkg.sha512",
+    "C:\\Users\\imolo\\.nuget\\packages\\google.ortools.runtime.win-x64\\9.12.4544\\google.ortools.runtime.win-x64.9.12.4544.nupkg.sha512",
+    "C:\\Users\\imolo\\.nuget\\packages\\google.protobuf\\3.30.2\\google.protobuf.3.30.2.nupkg.sha512"
+  ],
+  "logs": []
+}
